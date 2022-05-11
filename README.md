@@ -1,1 +1,3 @@
-# pc_projects
+# Projetos de PC
+
+Projetos desenvolvidos para disciplina de Programação Concorrente (PC).
